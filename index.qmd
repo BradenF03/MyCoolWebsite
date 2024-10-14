@@ -3,16 +3,64 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_4532.JPG
 ---
 
 :::{#me}
 
 ## Goals
 
+I am actively working toward a biochemistry degree and a sustainable agriculture minor at the University of New Hampshire. I am excited to explore my passion for genetics and further my education
+
 ## Education
 
+University of New Hampshire, Durham, NH - Expected Graduation: May 2025
+Bachelor of Science in Biochemistry, Molecular and Cellular Biology
+Recognition: UNH Trustee Scholarship, Honors Program
+
+Related Coursework: 
+Organic Chemistry I and II, Data Science for Life Sciences, Principles of Biochemistry I and II, Molecular Genetics, Molecular Evolution, Principles of Cell Biology, General Microbiology, Introduction to Physics, Applied Biostatistics, Principles of Genetics
+
+Skills and Training
+Laboratory Skills: 
+Chromatography (TLC, GC, Column), Spectroscopy (NMR, IR, UV-vis), Titration, Recrystallization, Extractions (Acid/base, Liquid-liquid), Rotary Evaporation, Microscopy, Cell Culturing, Inoculation of Media, Gram Staining, Pipetting, Flow Cytometry, Metabolomics, PCR, DNA/ RNA Extractions, Field-based Sampling, Autoclaving, Gel Electrophoresis, Data Collection, Data Analysis
+
+Training: 
+Laboratory and Chemical Safety, Hazardous Waste Management, Responsible Conduct of Research and Scholarly Activity
+
+Software: 
+R Studio, Microsoft Packages, JMP, FigTree, Seaview
+
 ## Experience
+
+UNH Phyto Lab, UNH Marine Biology Lab, Durham, NH					Jan 2023 - August 2024
+Research Assistant to Post-Doctorate Fellow Sean Anderson and Associate Professor Dr. Elizabeth Harvey
+
+- Designed and led experiments on the uptake of 96 organic compounds by phytoplankton and parasites using Biolog plates to determine the presence of absorption of compounds or consumption of plankton
+- Explored the parasitic relationship between dinospores and phytoplankton; specifically the interspecies dynamic between population numbers
+- Helped design and conduct experiments and performed data analysis; conducted field sampling along the coast of NH for phytoplankton
+
+Hale Lab, Woodman Horticultural Research Farm, Durham, NH					May 2024 – Present
+Agricultural Research Assistant to 2024 Innovator of the Year Professor Dr. Iago Hale
+
+- Supported the breeding and development of kiwiberry trees ensuring optimal tree health under regional conditions
+- Performed consistent maintenance to promote the health and development of the populations
+- Provided critical care to younger populations as they matured to ensure successful incorporation into the program
+- Collected time-sensitive data on the flowering of two populations of over 200 specimens
+- Harvested ripe berries for nutritional and flavor analysis, contributing to data analysis on fruit yield and quality
+
+Capstone Research Experience, Hale Lab, Durham, NH					August 2024 – Present
+Agricultural Research Assistant to 2024 Innovator of the Year Professor Dr. Iago Hale
+
+- Conducting nutritional analysis on over 200 kiwiberry progeny of trees with favorable fruit traits and trees with low oxalate with the purpose of discovering trees with both qualities
+- Engaging in extensive data analysis on fruit traits and physical and nutritional qualities for the purpose of determining if a successful cross was achieved
+
+Sideman Research Lab, Woodman Horticultural Research Farm, Durham, NH			May 2024 – Present
+Agricultural Research Assistant to Professor Dr. Rebecca Sideman
+
+- Assisted in the setup of agricultural experiments to determine the most effective methods for growing various food crop species under different conditions, ensuring precise implementation of research protocols
+- Conducted regular maintenance of experimental plots ensuring all controlled variables remained constant
+- Performed routine and successful data collection and record-keeping to ensure accurate analysis
 
 :::
 
